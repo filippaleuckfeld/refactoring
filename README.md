@@ -8,5 +8,3 @@
 |Remove Duplicated Code					   |medium|sometimes     |reduced code redundancy, improved maintainability, codebase will be easier to modify and update. | Filippa | 
 |Field encapsulation                       |low   |sometimes     |Provides more control over variables            |Carin    |
 |Generalize type                           |medium|moderately    |enables code-sharing, better maintainability because of less code| Alexander|
-|...                                       |...   |...           |...                                             |...      |
-|Change static fields to singleton instance|high  |rarely        |makes code thread-safe; high effort due to having to rewrite much code to manage state and pass reference to given (singleton) object instance|no one(?)|
